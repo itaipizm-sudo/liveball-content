@@ -1,1 +1,330 @@
-{"CUPDATED":"init"}
+{
+ "BANNER": {
+  "h": "גולדן סטייט דרסה את מיאמי, פיניקס עצרה את אורלנדו",
+  "p": "גולדן סטייט ניצחה את מיאמי 100:120, ופיניקס גברה על אורלנדו 104:117. הלילה: אבדיה ופורטלנד בלייקרס, ושארפ וסקרמנטו מארחים את סן אנטוניו."
+ },
+ "STORIES": {
+  "deni": "פתח את העונה ב-7 משחקים של 18 נקודות ומעלה, ופורטלנד ראשונה במערב. מול פיניקס מסר 12 אסיסטים, ובדירוג ESPN לעונה הוא בטופ 30.",
+  "sharp": "שיחק בכל 8 משחקי סקרמנטו, בתפקיד קלעי מהספסל. קולע 39.1% מחוץ לקשת, והשיא שלו העונה הוא 9 נקודות ב-3 מ-3 משלוש בניצחון על דאלאס.",
+  "wolf": "הופיע רק ב-3 מתוך 8 משחקי ברוקלין. מול שארלוט לא שיחק במחצית הראשונה וקלע 13 נקודות במחצית השנייה. קולע 58.3% מחוץ לקשת, על מדגם של 12 זריקות.",
+  "saraf": "שיחק 4 דקות ב-NBA העונה, ומאז 26.10 הוא מוצב בלונג איילנד. בעונה שעברה העמיד שם 15.4 נקודות ו-4.6 אסיסטים, אבל הצטופפות הגארדים בברוקלין עם דמין, טראורה ובראון סוגרת לו דקות."
+ },
+ "NOTES": {
+  "deni": "",
+  "sharp": "",
+  "wolf": "",
+  "saraf": "בלונג איילנד, לא שיחק הלילה"
+ },
+ "UPS": [
+  [
+   "טאי ג'רום",
+   "MEM",
+   19.7,
+   27.4,
+   "3.6 ריב' · 5.3 אס'",
+   "בעונה שעברה שיחק רק 15 משחקים. השנה קולע 50% מהשדה.",
+   7
+  ],
+  [
+   "דילן הארפר",
+   "SAS",
+   11.8,
+   18.6,
+   "5.6 ריב' · 4.6 אס'",
+   "בעונה השנייה שלו כמעט 7 נקודות יותר, גם הריבאונדים עלו מ-3.4 ל-5.6.",
+   8
+  ],
+  [
+   "סקוטי בארנס",
+   "TOR",
+   18.1,
+   23.5,
+   "7.6 ריב' · 5.1 אס'",
+   "קצב שיא בקריירה בנקודות.",
+   8
+  ],
+  [
+   "זאק לאווין",
+   "SAC",
+   19.2,
+   23.1,
+   "3.1 ריב' · 2.6 אס'",
+   "השתפר גם בדיוק: 49.6% מהשדה מול 47.9% בעונה שעברה.",
+   8
+  ],
+  [
+   "קופר פלאג",
+   "DAL",
+   21,
+   24.3,
+   "6.3 ריב' · 6.3 אס'",
+   "בעונה השנייה שלו, האסיסטים עלו מ-4.5 ל-6.3.",
+   7
+  ],
+  [
+   "אלפרן שנגון",
+   "HOU",
+   20.4,
+   22.4,
+   "9.1 ריב' · 8.1 אס'",
+   "שיא בקריירה באסיסטים, כמעט 2 יותר מבעונה שעברה.",
+   7
+  ]
+ ],
+ "LNEWS": [
+  [
+   "5.11.2026",
+   "NBC Sports Bay Area",
+   "קרי עם 29 נקודות, 22 מהן אחרי ההפסקה, וגולדן סטייט ניצחה את מיאמי 100:120 – ניצחון שישי ברציפות",
+   "https://www.nbcbayarea.com/nba/golden-state-warriors/observations-takeaways-analysis-steph-curry-heat/4171525/",
+   []
+  ],
+  [
+   "5.11.2026",
+   "ABC News",
+   "בוקר קלע 30 נקודות ופיניקס עצרה את רצף ההפסדים עם 104:117 על אורלנדו",
+   "https://abcnews.com/Sports/wireStory/booker-scores-30-points-lead-suns-past-magic-137901186",
+   []
+  ],
+  [
+   "5.11.2026",
+   "SRN News",
+   "וומבניאמה עם 52 נקודות ו-24 ריבאונדים בניצחון סן אנטוניו על דאלאס",
+   "https://srnnews.com/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-and-24/",
+   []
+  ],
+  [
+   "5.11.2026",
+   "Bleacher Report",
+   "ג'יילן בראון הוביל את פילדלפיה לניצחון על דטרויט",
+   "https://bleacherreport.com/articles/25529432-jaylen-brown-keys-76ers-win-vs-pistons-box-score-stats-highlights-lebron-cade-maxey-more",
+   []
+  ],
+  [
+   "5.11.2026",
+   "Yahoo Sports",
+   "דטרויט הפסידה לפילדלפיה בקרב על ראש המזרח",
+   "https://sports.yahoo.com/articles/pistons-drop-battle-top-spot-035646854.html",
+   []
+  ],
+  [
+   "5.11.2026",
+   "Yahoo Sports",
+   "33 נקודות לברנסון בניצחון 105:135 של הניקס על שיקגו",
+   "https://sports.yahoo.com/articles/brunson-scores-33-points-leads-031432753.html",
+   []
+  ]
+ ],
+ "NEWS": [
+  [
+   "6.11.2026",
+   "JTA",
+   "פורטלנד פתחה ב-1:6, הכי טובה במערב, ואבדיה עם 23.4 נקודות, 6.4 אסיסטים ושני דאבל-דאבל",
+   "https://www.jta.org/2026/11/06/sports/deni-avdija-is-at-it-again",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "5.11.2026",
+   "Sports Illustrated",
+   "3 מסקנות מהניצחון של פורטלנד על פיניקס: 12 אסיסטים לאבדיה",
+   "https://www.si.com/nba/trailblazers/onsi/3-takeaways-in-blazers-win-vs-suns",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "4.11.2026",
+   "Yardbarker",
+   "ברוקלין ניצחה את שארלוט, וולף עם 13 נקודות מהספסל",
+   "https://www.yardbarker.com/nba/articles/nets_top_hornets_114104_for_second_win_of_season/s1_17668_44517914",
+   [
+    "wolf"
+   ]
+  ],
+  [
+   "3.11.2026",
+   "OPB",
+   "שיא עונתי לאבדיה: 28 נקודות בניצחון 110:118 של פורטלנד בדנבר",
+   "https://www.opb.org/article/2026/11/03/trail-blazers-nuggets/",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "31.10.2026",
+   "Eurohoops",
+   "אבדיה קלע 24 נקודות, 19 מהן במחצית הראשונה, בניצחון 90:112 של פורטלנד ביוטה",
+   "https://www.eurohoops.net/en/nba-news/2029212/avdija-sets-the-tone-as-portland-cruises-past-utah/",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "24.10.2026",
+   "Eurohoops",
+   "אבדיה הוביל את פורטלנד לניצחון על סקרמנטו עם 26 נקודות",
+   "https://www.eurohoops.net/en/nba-news/2025291/deni-avdija-og-anunoby-domantas-sabonis-nba-european-recap/",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "16.10.2026",
+   "JTA",
+   "מדריך לעונת 2026/27: השחקנים הישראלים והיהודים ב-NBA",
+   "https://www.jta.org/2026/10/16/sports/a-jewish-nba-season-preview",
+   [
+    "deni",
+    "wolf",
+    "saraf"
+   ]
+  ],
+  [
+   "29.9.2026",
+   "Eurohoops",
+   "אבדיה על הגב לפני העונה: מוכן ב-99.9%",
+   "https://www.eurohoops.net/en/nba-news/2013577/deni-avdija-talks-portland-trail-blazers-injury-nba/",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "30.6.2026",
+   "Roundtable",
+   "שארפ על התרבות החדשה שהוא רוצה להביא לסקרמנטו",
+   "https://roundtable.io/sports/nba/kings/players/kings-rookie-sharp-talks-culture-shift-in-sacramento",
+   [
+    "sharp"
+   ]
+  ],
+  [
+   "יוני 2026",
+   "The Jewish Chronicle",
+   "סקרמנטו בחרה בשארפ, יליד ישראל, בדראפט",
+   "https://www.thejc.com/news/usa/nbas-sacramento-kings-draft-israeli-emanual-sharp-eg5o4377",
+   [
+    "sharp"
+   ]
+  ],
+  [
+   "16.3.2026",
+   "Kurir",
+   "אבדיה הסביר בסרביה למה בחר לשחק בנבחרת ישראל",
+   "https://www.kurir.rs/sport/kosarka/9941211/deni-avdija-otkrio-zasto-ne-igra-za-srbiju",
+   [
+    "deni"
+   ]
+  ]
+ ],
+ "CO": {
+  "JTA": "ארה\"ב",
+  "Sports Illustrated": "ארה\"ב",
+  "Yardbarker": "ארה\"ב",
+  "Roundtable": "ארה\"ב",
+  "Yahoo Sports": "ארה\"ב",
+  "Bleacher Report": "ארה\"ב",
+  "SRN News": "ארה\"ב",
+  "Eurohoops": "יוון",
+  "Kurir": "סרביה",
+  "The Jewish Chronicle": "בריטניה",
+  "OPB": "ארה\"ב",
+  "NBC Sports Bay Area": "ארה\"ב",
+  "ABC News": "ארה\"ב"
+ },
+ "POSTS": [
+  [
+   "ig",
+   "https://www.instagram.com/p/Dc_ea2lmw2i/",
+   "deni"
+  ],
+  [
+   "ig",
+   "https://www.instagram.com/p/DfInIWGjw8z/",
+   "sharp"
+  ],
+  [
+   "ig",
+   "https://www.instagram.com/p/DdAKVuinHNZ/",
+   "wolf"
+  ],
+  [
+   "ig",
+   "https://www.instagram.com/p/DeHd_gfiE3s/",
+   "saraf"
+  ],
+  [
+   "x",
+   "https://twitter.com/BrooklynNets/status/2118185742426116276",
+   "wolf"
+  ],
+  [
+   "x",
+   "https://twitter.com/YESNetwork/status/2118182732714967326",
+   "wolf"
+  ]
+ ],
+ "VIDS": [
+  [
+   "Cov4JyeOeXk",
+   "אבדיה: 21 נקודות ו-12 אסיסטים מול פיניקס",
+   "Portland Trail Blazers",
+   "deni"
+  ],
+  [
+   "RnrBbzCRmTk",
+   "וולף נותן ניצוץ מהספסל מול שארלוט",
+   "Brooklyn Nets",
+   "wolf"
+  ],
+  [
+   "vBgbDniFcJc",
+   "שארפ קולע 18 נקודות בליגת הקיץ",
+   "NBC Sports Bay Area",
+   "sharp"
+  ],
+  [
+   "X_cbtFVnWV4",
+   "שרף קולע 40 נקודות בג'י ליג",
+   "NBA G League",
+   "saraf"
+  ],
+  [
+   "Ld-lceQ_4_s",
+   "תקציר: פורטלנד 132, פיניקס 119",
+   "Portland Trail Blazers",
+   "deni"
+  ],
+  [
+   "oi8rrI8Yuj4",
+   "תקציר: שארלוט בברוקלין",
+   "NBA",
+   "wolf"
+  ]
+ ],
+ "SHORTS": [
+  [
+   "YH5wKVvoXYs",
+   "וומבניאמה אחרי משחק 50 הנקודות",
+   "NBA"
+  ],
+  [
+   "vfxG2NiiQsQ",
+   "קליי תומפסון קולע סל ניצחון",
+   "NBA"
+  ],
+  [
+   "A0KvyxyQWOw",
+   "יאניס חוסם, קליי מכריע",
+   "NBA"
+  ],
+  [
+   "wuE7vvULfD0",
+   "למלו בול וגובר אחרי אלי-הופ",
+   "NBA"
+  ]
+ ],
+ "NAMES": {},
+ "CUPDATED": "6.11.2026, 20:20"
+}
