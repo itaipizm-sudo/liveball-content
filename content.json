@@ -1,18 +1,18 @@
 {
  "BANNER": {
-  "h": "גולדן סטייט דרסה את מיאמי, פיניקס עצרה את אורלנדו",
-  "p": "גולדן סטייט ניצחה את מיאמי 100:120, ופיניקס גברה על אורלנדו 104:117. הלילה: אבדיה ופורטלנד בלייקרס, ושארפ וסקרמנטו מארחים את סן אנטוניו."
+  "h": "53 של דונצ'יץ' עצרו את אבדיה ופורטלנד",
+  "p": "הלייקרס חזרו מפיגור של 16 וניצחו את פורטלנד 118:124, אבדיה עם 22 נקודות, 11 אסיסטים ו-9 ריבאונדים. סן אנטוניו גברה על סקרמנטו 109:124 (שארפ: 9 נקודות). הלילה: פורטלנד מארחת את סן אנטוניו, וברוקלין באטלנטה."
  },
  "STORIES": {
-  "deni": "פתח את העונה ב-7 משחקים של 18 נקודות ומעלה, ופורטלנד ראשונה במערב. מול פיניקס מסר 12 אסיסטים, ובדירוג ESPN לעונה הוא בטופ 30.",
-  "sharp": "שיחק בכל 8 משחקי סקרמנטו, בתפקיד קלעי מהספסל. קולע 39.1% מחוץ לקשת, והשיא שלו העונה הוא 9 נקודות ב-3 מ-3 משלוש בניצחון על דאלאס.",
-  "wolf": "הופיע רק ב-3 מתוך 8 משחקי ברוקלין. מול שארלוט לא שיחק במחצית הראשונה וקלע 13 נקודות במחצית השנייה. קולע 58.3% מחוץ לקשת, על מדגם של 12 זריקות.",
+  "deni": "פורטלנד פתחה ב-1:6 ונעצרה לראשונה בחוץ מול הלייקרס (2:6). אבדיה קולע כ-23 נקודות למשחק, ובלוס אנג'לס היה קרוב לטריפל-דאבל עם 22 נקודות, 11 אסיסטים ו-9 ריבאונדים, אבל גם עם 8 איבודים.",
+  "sharp": "שיחק בכל 9 משחקי סקרמנטו, בתפקיד קלעי מהספסל. פעמיים העונה קלע 3 שלשות במשחק, מול דאלאס ומול סן אנטוניו. סקרמנטו פתחה ב-8:1, שוויון לפתיחה הגרועה בתולדותיה.",
+  "wolf": "הופיע ב-3 מתוך 8 משחקי ברוקלין. מול שארלוט לא שיחק במחצית הראשונה, ואז קלע 13 נקודות ב-19 דקות, וברוקלין הייתה +17 כשהיה על המגרש. בעונת הרוקי שלו העמיד 8.9 נקודות ב-57 משחקים.",
   "saraf": "שיחק 4 דקות ב-NBA העונה, ומאז 26.10 הוא מוצב בלונג איילנד. בעונה שעברה העמיד שם 15.4 נקודות ו-4.6 אסיסטים, אבל הצטופפות הגארדים בברוקלין עם דמין, טראורה ובראון סוגרת לו דקות."
  },
  "NOTES": {
   "deni": "",
   "sharp": "",
-  "wolf": "",
+  "wolf": "ברוקלין לא שיחקה הלילה",
   "saraf": "בלונג איילנד, לא שיחק הלילה"
  },
  "UPS": [
@@ -73,6 +73,34 @@
  ],
  "LNEWS": [
   [
+   "7.11.2026",
+   "Yahoo Sports",
+   "53 נקודות לדונצ'יץ', משחק 40+ רביעי ברציפות, והלייקרס חזרו מפיגור לנצח את פורטלנד 118:124",
+   "https://sports.yahoo.com/articles/luka-doncic-scores-53-points-070913411.html",
+   []
+  ],
+  [
+   "7.11.2026",
+   "ESPN",
+   "קליבלנד עצרה את רצף חמשת הניצחונות של פילדלפיה עם 95:119",
+   "https://www.espn.com/nba/recap/_/gameId/401909289",
+   []
+  ],
+  [
+   "7.11.2026",
+   "NBA.com",
+   "ליל גביע ה-NBA: 34 נקודות לטייטום בניצחון בוסטון על שארלוט, שיא קריירה של 35 לאג'יי מיטשל",
+   "https://www.nba.com/news/emirates-nba-cup-2026-live-updates-nov-6",
+   []
+  ],
+  [
+   "7.11.2026",
+   "NBC Sports Bay Area",
+   "וומבניאמה עם 30 נקודות ו-14 ריבאונדים, ניצחון שביעי ברציפות לסן אנטוניו",
+   "https://www.nbcsportsbayarea.com/nba/sacramento-kings/victor-wembanyama-spurs-darius-acuff-analysis/1977668/?partner=yahoo",
+   []
+  ],
+  [
    "5.11.2026",
    "NBC Sports Bay Area",
    "קרי עם 29 נקודות, 22 מהן אחרי ההפסקה, וגולדן סטייט ניצחה את מיאמי 100:120 – ניצחון שישי ברציפות",
@@ -81,41 +109,49 @@
   ],
   [
    "5.11.2026",
-   "ABC News",
-   "בוקר קלע 30 נקודות ופיניקס עצרה את רצף ההפסדים עם 104:117 על אורלנדו",
-   "https://abcnews.com/Sports/wireStory/booker-scores-30-points-lead-suns-past-magic-137901186",
-   []
-  ],
-  [
-   "5.11.2026",
    "SRN News",
    "וומבניאמה עם 52 נקודות ו-24 ריבאונדים בניצחון סן אנטוניו על דאלאס",
    "https://srnnews.com/nba-roundup-spurs-edge-mavs-behind-victor-wembanyamas-52-and-24/",
    []
-  ],
-  [
-   "5.11.2026",
-   "Bleacher Report",
-   "ג'יילן בראון הוביל את פילדלפיה לניצחון על דטרויט",
-   "https://bleacherreport.com/articles/25529432-jaylen-brown-keys-76ers-win-vs-pistons-box-score-stats-highlights-lebron-cade-maxey-more",
-   []
-  ],
-  [
-   "5.11.2026",
-   "Yahoo Sports",
-   "דטרויט הפסידה לפילדלפיה בקרב על ראש המזרח",
-   "https://sports.yahoo.com/articles/pistons-drop-battle-top-spot-035646854.html",
-   []
-  ],
-  [
-   "5.11.2026",
-   "Yahoo Sports",
-   "33 נקודות לברנסון בניצחון 105:135 של הניקס על שיקגו",
-   "https://sports.yahoo.com/articles/brunson-scores-33-points-leads-031432753.html",
-   []
   ]
  ],
  "NEWS": [
+  [
+   "7.11.2026",
+   "Sports Illustrated",
+   "מנצחים ומפסידים בהפסד ללייקרס: אבדיה בין המנצחים למרות 8 איבודים",
+   "https://www.si.com/nba/trailblazers/onsi/2-winners-2-losers-in-blazers-loss-vs-luka-doncic-lakers",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "7.11.2026",
+   "Field Level Media",
+   "22 נקודות ו-11 אסיסטים לאבדיה, אבל פורטלנד איבדה יתרון של 16 בלוס אנג'לס",
+   "https://fieldlevelmedia.com/nba/luka-doncic-pours-in-53-as-lakers-rally-past-blazers",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "7.11.2026",
+   "Vu Nere Bologna",
+   "סיכום הלילה באיטליה: אבדיה קרוב לטריפל-דאבל בהפסד ללייקרס",
+   "https://www.vunerebologna.it/nba/nba-risultati-7-novembre-2026-doncic-incanta-con-53-punti-cleveland-ferma-philadelphia-wembanyama-trascina-gli-spurs/07/11/2026/",
+   [
+    "deni"
+   ]
+  ],
+  [
+   "7.11.2026",
+   "Sactown Sports",
+   "סקרמנטו הפסידה לסן אנטוניו, ושארפ עם 9 נקודות ו-5 ריבאונדים ב-30 דקות",
+   "https://sactownsports.com/nba/sacramento-kings/spurs-recap",
+   [
+    "sharp"
+   ]
+  ],
   [
    "6.11.2026",
    "JTA",
@@ -123,6 +159,15 @@
    "https://www.jta.org/2026/11/06/sports/deni-avdija-is-at-it-again",
    [
     "deni"
+   ]
+  ],
+  [
+   "5.11.2026",
+   "New York Daily News",
+   "19 הדקות של וולף מול שארלוט מציבות לברוקלין שאלה על הרוטציה",
+   "https://sports.yahoo.com/articles/danny-wolf-19-minute-statement-141800039.html",
+   [
+    "wolf"
    ]
   ],
   [
@@ -153,6 +198,16 @@
    ]
   ],
   [
+   "3.11.2026",
+   "Eurohoops",
+   "סיכום אירופי: 28 לאבדיה בדנבר, ושארפ עם 3 שלשות בניצחון על דאלאס",
+   "https://www.eurohoops.net/en/nba-news/2029960/luka-doncic-giannis-antetokounmpo-nikola-jokic-victor-wembanyama-nba-european-recap/",
+   [
+    "deni",
+    "sharp"
+   ]
+  ],
+  [
    "31.10.2026",
    "Eurohoops",
    "אבדיה קלע 24 נקודות, 19 מהן במחצית הראשונה, בניצחון 90:112 של פורטלנד ביוטה",
@@ -166,53 +221,6 @@
    "Eurohoops",
    "אבדיה הוביל את פורטלנד לניצחון על סקרמנטו עם 26 נקודות",
    "https://www.eurohoops.net/en/nba-news/2025291/deni-avdija-og-anunoby-domantas-sabonis-nba-european-recap/",
-   [
-    "deni"
-   ]
-  ],
-  [
-   "16.10.2026",
-   "JTA",
-   "מדריך לעונת 2026/27: השחקנים הישראלים והיהודים ב-NBA",
-   "https://www.jta.org/2026/10/16/sports/a-jewish-nba-season-preview",
-   [
-    "deni",
-    "wolf",
-    "saraf"
-   ]
-  ],
-  [
-   "29.9.2026",
-   "Eurohoops",
-   "אבדיה על הגב לפני העונה: מוכן ב-99.9%",
-   "https://www.eurohoops.net/en/nba-news/2013577/deni-avdija-talks-portland-trail-blazers-injury-nba/",
-   [
-    "deni"
-   ]
-  ],
-  [
-   "30.6.2026",
-   "Roundtable",
-   "שארפ על התרבות החדשה שהוא רוצה להביא לסקרמנטו",
-   "https://roundtable.io/sports/nba/kings/players/kings-rookie-sharp-talks-culture-shift-in-sacramento",
-   [
-    "sharp"
-   ]
-  ],
-  [
-   "יוני 2026",
-   "The Jewish Chronicle",
-   "סקרמנטו בחרה בשארפ, יליד ישראל, בדראפט",
-   "https://www.thejc.com/news/usa/nbas-sacramento-kings-draft-israeli-emanual-sharp-eg5o4377",
-   [
-    "sharp"
-   ]
-  ],
-  [
-   "16.3.2026",
-   "Kurir",
-   "אבדיה הסביר בסרביה למה בחר לשחק בנבחרת ישראל",
-   "https://www.kurir.rs/sport/kosarka/9941211/deni-avdija-otkrio-zasto-ne-igra-za-srbiju",
    [
     "deni"
    ]
@@ -231,7 +239,13 @@
   "The Jewish Chronicle": "בריטניה",
   "OPB": "ארה\"ב",
   "NBC Sports Bay Area": "ארה\"ב",
-  "ABC News": "ארה\"ב"
+  "ABC News": "ארה\"ב",
+  "Field Level Media": "ארה\"ב",
+  "Vu Nere Bologna": "איטליה",
+  "Sactown Sports": "ארה\"ב",
+  "New York Daily News": "ארה\"ב",
+  "ESPN": "ארה\"ב",
+  "NBA.com": "ארה\"ב"
  },
  "POSTS": [
   [
@@ -279,6 +293,12 @@
    "wolf"
   ],
   [
+   "X5EXmi9Ihkc",
+   "תקציר: פורטלנד ניצחה בלייקרס 129:136 (27.10)",
+   "NBA",
+   "deni"
+  ],
+  [
    "vBgbDniFcJc",
    "שארפ קולע 18 נקודות בליגת הקיץ",
    "NBC Sports Bay Area",
@@ -295,12 +315,6 @@
    "תקציר: פורטלנד 132, פיניקס 119",
    "Portland Trail Blazers",
    "deni"
-  ],
-  [
-   "oi8rrI8Yuj4",
-   "תקציר: שארלוט בברוקלין",
-   "NBA",
-   "wolf"
   ]
  ],
  "SHORTS": [
@@ -326,5 +340,5 @@
   ]
  ],
  "NAMES": {},
- "CUPDATED": "6.11.2026, 20:20"
+ "CUPDATED": "7.11.2026, 10:15"
 }
